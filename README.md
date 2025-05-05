@@ -74,6 +74,7 @@ O **Semáforo Inteligente** é um sistema embarcado desenvolvido para simular o 
 ## Estrutura do Repositório
 
 - **`semaforo_inteligente_freertos.c`**: Código-fonte principal do projeto.
+- **`CMakeLists.txt`**: Arquivo de configuração para o sistema de build CMake, definindo as dependências, bibliotecas externas e configurações de compilação do projeto.
 - **`lib/ssd1306.h` e `lib/ssd1306.c`**: Controle do display OLED.
 - **`lib/led_5x5.h` e `lib/led_5x5.c`**: Controle da matriz de LEDs RGB.
 - **`lib/button.h` e `lib/button.c`**: Gestão de entrada do botão com debounce.
