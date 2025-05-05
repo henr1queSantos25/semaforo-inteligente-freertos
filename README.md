@@ -107,11 +107,11 @@ O **Semáforo Inteligente** é um sistema embarcado desenvolvido para simular o 
 
 ## Demonstração do Projeto
 
-[Link para o vídeo de demonstração]
+[Clique aqui](#)
 
 ---
 
 ## Desenvolvido por
 
-Henrique Oliveira dos Santos  
+Henrique O. Santos  
 [LinkedIn](https://www.linkedin.com/in/dev-henriqueo-santos/)
