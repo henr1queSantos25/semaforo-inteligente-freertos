@@ -154,9 +154,9 @@ void vMatrizLedTask() {
             }
 
             else if (corAtual == COR_VERMELHO) {
-                for (int i = 0; i < 25 && !modoNoturno; i++) {
+                for (int i = 0; i < 60 && !modoNoturno; i++) {
                     desenharCorNaMatriz(0.09, 0.0, 0.0);
-                    vTaskDelay(pdMS_TO_TICKS(240));
+                    vTaskDelay(pdMS_TO_TICKS(100));
                 }
             }
 
